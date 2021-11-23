@@ -77,7 +77,7 @@ we used VScode to run our yolov5 model to run it with cpu
 * we can use this project to detect the human presence around our concerned area and share its data over telegram
 
 
-<img src="runs/detect/exp/bus.jpg" alt="image of human getting detected" width="400" height="600"/> <img src="runs/detect/exp/zidane.jpg" alt="image of human getting detected" width="400" height="600"/>
+<img src="runs/detect/exp/bus.jpg" alt="image of human getting detected" width="400" height="600"/>      <img src="runs/detect/exp/zidane.jpg" alt="image of human getting detected" width="400" height="800"/>
 
 
 <!-- LICENSE -->
